@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WialonConnection</string>
+    <string name="server_response_login_password_incorrect">Incorrect password, unable to login</string>
+    <string name="server_response_login_successful">Login successful</string>
+    <string name="server_response_login_unsuccessful">Unable to login, please check UID,password and network connection</string>
+    <string name="server_response_login_request_timeout">Unable to connect, please check network connection</string>
+    <string name="server_response_login_unknown_error">Unable to connect, please check network connection</string>
+</resources>
